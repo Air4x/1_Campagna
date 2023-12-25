@@ -1,0 +1,26 @@
+#+TITLE: Candlekeep
+#+AUTHOR: Mario Calcagno
+
+Candlekeep è una fortezza-biblioteca dalle molte torri, in cui si
+trova la più grande raccolta di scritti di tutto il Faerûn. Fu fondata
+nel -200 CV e nel 75 CV divenne dimora del famoso veggente
+Alaundo. Qui si guadagnò una buona reputazione, dimostrando la
+veridicità delle sue profezie. Alla sua morte, Candlekeep divenne un
+santuario per la venerazione delle sue profezie e del suo sapere. Da
+quel momento, i monaci della fortezza si dedicarono per sempre alla
+preservazione di tutta la conoscenza disponibile.
+
+Candlekeep si trova in cima ad una rupe vulcanica di una stretta
+penisola che sporge da un lato sulla Costa della Spada, e dall’altro
+sulla scogliera che si affaccia sul Mare di Spade. Il sentiero che
+conduce all’entrata è chiamato Via del Leone. La fortezza è protetta
+da un alto muro esterno, popolato da una serie d’imponenti porte
+d’ingresso, forgiate da un metallo resistente ai fulmini e ad
+incantesimi di divinazione, come Individuazione del Magico.
+
+La cittadella è protetta da un incantesimo che impedisce a qualsiasi
+cosa di bruciare, fuorché cera o stoppini, infatti nessun tipo di
+carta può prendere fuoco. Altri incantesimi bloccano il teletrasporto
+e l’accesso alle Sale Interne tutti coloro che non portano un sigillo.
+
+Il vessillo è un castello decorato con una fiamma.

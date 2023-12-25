@@ -1,0 +1,14 @@
+#+TITLE: Luskan
+#+AUTHOR: Mario Calcagno
+* Luskan
+   Luskan, conosciuta come la Città delle Vele, è una città portuale
+  fortificata e governata da un’organizzazione, composta da cinque
+  gruppi chiamati Navi, che costituiscono la risorsa più importante
+  per la sua società e per i suoi abitanti. Oltre che per la sua
+  flotta, la città è famosa per la sua Confraternita Arcana, formata
+  da egocentrici maghi, ansiosi di villantare le proprie abilità di
+  fronte ai cittadini di Luskan.  Luskan sorge intorno al Fiume Mirar,
+  il quale ha scavato un grande canale che divide la città in due
+  parti principali, a circa dodici metri dal livello dell’acqua. La
+  baia formatasi dalla furia del fiume ha portato alla creazione di
+  cinque isole sotto il controllo di Luskan.

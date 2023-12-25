@@ -1,0 +1,13 @@
+digraph Mappa {
+	Luskan -> Foresta;
+	Luskan -> Oceano;	
+	Foresta -> "Accampamento Goblin" [arrowhead="oinv"];
+	Foresta -> Montagne;
+	Foresta -> Candlekeep;
+	Montagne -> Cascata [arrowhead="oinv"];
+	Candlekeep -> Oceano;
+	Candlekeep -> Foresta;
+	Oceano -> "Baia Magra" [arrowhead="oinv"];
+	Oceano -> "Secca" [arrowhead="oinv"];
+	Oceano -> Newerwinter;
+}

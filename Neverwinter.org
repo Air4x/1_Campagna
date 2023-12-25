@@ -1,0 +1,23 @@
+#+TITLE: Neverwinter
+#+AUTHOR: Mario Calcagno
+
+* Neverwinter
+Neverwinter, conosciuta anche come la Città dalle Abili Mani o come il
+Gioiello del Nord, è una città situata sulla parte nordoccidentale
+della Costa della Spada.
+
+La città era originariamente chiamata Eigersstor, dalla lingua degli
+Illuskan, popolo del nord. Successivamente, prese il suo attuale nome
+dalla traduzione in lingua comune. Diverse leggende narrano che la
+città fosse stata fondata da un elfo del Sole di nome Halueth Never,
+chiamandola inizialmente “Never’s Winter”, successivamente abbreviato
+in “Neverwinter”.
+
+Tuttavia, alcuni abitanti hanno sempre creduto che il nome derivasse
+dal clima insolitamente caldo della città e da come i suoi moli
+fossero sempre privi di ghiaccio in tutti gli inverni, tranne che nel
+più freddo. Ciò è probabilmente dovuto al fiume Neverwinter che scorre
+attraverso la città, in quanto riscaldato dagli elementali del fuoco
+che vivono sotto il vicino Monte Hotenow, nel Bosco di
+Neverwinter. Effettivamente, il calore emanato dal fiume ha creato un
+clima caldo permanente nelle immediate vicinanze.

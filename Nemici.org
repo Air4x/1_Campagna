@@ -1,0 +1,381 @@
+#+TITLE: Schede Nemici
+#+AUTHOR: Mario Calcagno
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: toc:nil 
+#+STARTUP: overview
+
+* Template :noexport:
+/Taglia/,/Allineamento/
+- CA ::
+- HP ::
+- Velocità ::
+** Statistiche
+| STR | a | -5 |
+| DEX | b | -5 |
+| CON | c | -5 |
+| INT | d | -5 |
+| WIS | e | -5 |
+| CHA | f | -5 |
+#+TBLFM: $3='(floor (/ (- $2 10) 2.0));N
+** Abilità
+- Skills ::
+- Sensi ::
+- Lingue ::
+- Sfida ::
+** Passive
+- /nome passiva/ ::
+** Immunità
+*** Danno
+*** Condizioni
+** Azioni
+- /nome azione/ ::
+- /nome azione1/ ::
+** Reazioni
+- /nome reazione/ ::
+
+* Guardia Cittadina
+Umanoide medioi (qualsiasi razza), qualsiasi allineamento
+- CA :: 16 (giaco di maglia, scudo)
+- HP :: 11 (2d8 +2)
+- Velocità :: 9m
+** Statistiche
+| STR | 13 | 1 |
+| DEX | 12 | 1 |
+| CON | 12 | 1 |
+| INT | 10 | 0 |
+| WIS | 11 | 0 |
+| CHA | 10 | 0 |
+#+TBLFM: $3='(floor (/ (- $2 10) 2.0));N
+
+** Abilità
+- Skills :: Percezione (+2)
+- Sensi :: percezione Passiva (12)
+- Lingue :: Comune
+- Sfida :: 1/8 (25xp)
+** Passive
+** Azioni
+- Lancia :: Melee o A distanza, +3 a colpire, 1.5m portata (Melee) o 6/18m (A distanza), bersaglio singolo,
+  4 (1d6 +1) danni perforanti o 5(1d8 +1) (Melee) a due mani.
+** Reazioni
+
+* Goblin
+** Goblin semplice
+Umanoide piccolo (goblinoide), neutrale malvagio
+- CA :: 15 (armatura di pelle, scudo)
+- HP :: 7 (2d6)
+- Velocità :: 9m
+*** Statistiche
+| STR |  8 | -1 |
+| DEX | 14 |  2 |
+| CON | 10 |  0 |
+| INT | 10 |  0 |
+| WIS |  8 | -1 |
+| CHA |  8 | -1 |
+#+TBLFM: $3='(floor (/ (- $2 10) 2.0));N
+*** Abilità
+- Skills :: Furtività (+6)
+- Sensi :: Scurovisione 18m, percezione Passiva (9)
+- Lingue :: Comune, Goblin
+- Sfida :: 1/4 (50xp)
+*** Passive
+- Nimble Escape :: Il goblin puo' disingaggiare o nasconderis come
+  azione bonus ogni turno
+*** Azioni
+- Scimitarra :: Melee, +4 a colpire, 1.5m portata, bersaglio singolo,
+  5(1d6 +2) danni taglienti;
+- Arco corto :: A distanza, +4 a colpire, 24/97m portata, bersaglio singolo
+  5(1d6 +2) danni perforanti;
+  
+** Goblin Boss
+Umanoide piccolo (goblinoide), neutrale malvagio
+- CA :: 17 (maglia, scudo)
+- HP :: 21 (6d6)
+- Velocità :: 9m
+***  Statistiche
+| STR | 10 |  0 |
+| DEX | 14 |  2 |
+| CON | 10 |  0 |
+| INT | 10 |  0 |
+| WIS |  8 | -1 |
+| CHA | 10 |  0 |
+#+TBLFM: $3='(floor (/ (- $2 10) 2.0));N
+*** Abilità
+- Skills :: Furtività (+6)
+- Sensi :: Scurovisione 18m, percezione Passiva (9)
+- Lingue :: Comune, Goblin
+- Sfida :: 1 (200 XP)
+
+*** Passive
+- Nimble Escape :: Il goblin puo' *disingaggiare* o *nascondersi* come
+  azione bonus ogni turno
+
+*** Azioni
+- Attacco Multiplo :: Il goblin fa due attacchi con la sua *scimitarra*,
+  il secondo ha svantaggio.
+- Scimitarra :: Melee, +4 a colpire, 1.5m portata, bersaglio singolo,
+  5(1d6 +2) danni taglienti;
+- Giavellotto :: Melee o A distanza, +4 a colpire, 1.5m portata (Melee) o 9/36m, bersaglio singolo,
+  5 (1d6 +2) danni perforanti;
+*** Reazioni
+- Redirect Attack  :: Quando una creature che il goblin vede lo bersaglia con un
+  attacco, il goblin sceglie un altro goblin entro 1.5m e scambia di posto con il
+  goblin scelto. Il goblin scelto diventa il bersaglio d'attacco.
+
+* Popolano
+Umanoide medio (qualsiasi razza), qualsiasi allineamento
+- CA :: 10
+- HP :: 4 (1d8)
+- Velocità :: 9m
+** Statistiche
+| STR | 10 | 0 |
+| DEX | 10 | 0 |
+| CON | 10 | 0 |
+| INT | 10 | 0 |
+| WIS | 10 | 0 |
+| CHA | 10 | 0 |
+#+TBLFM: $3='(floor (/ (- $2 10) 2.0));N
+** Abilità
+- Skills ::
+- Sensi :: percezione Passiva 10
+- Lingue :: Comune
+- Sfida :: 0 (10XP)
+** Passive
+** Azioni
+- Randello :: Melee, +2 a colpire, 1.5m portata, bersaglio singolo,
+  2 (1d4)  danni contundenti
+** Reazione
+* Cockatrice
+Mostruosità piccola, nessun allineamento
+- CA :: 11
+- HP :: 27 (6d6 +6)
+- Velocità :: 6m, volo 12m
+** Statistiche
+| STR |  6 | -2 |
+| DEX | 12 |  1 |
+| CON | 12 |  1 |
+| INT |  2 | -4 |
+| WIS | 13 |  1 |
+| CHA |  5 | -3 |
+#+TBLFM: $3='(floor (/ (- $2 10) 2.0));N
+** Abilità
+- Skills :: 
+- Sensi :: Scurovisione 18m, percezione passiva 11
+- Lingue :: 
+- Sfida :: 1/2 (100XP)
+** Passive
+**  Azioni
+- Morso :: Melee, +3 a colpire, 1.5m di portata, bersaglio singolo,
+  3 (1d4 +1) danni perforanti. Il bersaglio deve tirare un tiro salvezza
+  su CON e battere un CD 11 per non essere magicamente pietrificato.
+  Se fallisce il tiro salvezza, la creatura inizia a trasformarsi in pietra ed
+  è intralciata. Al termine del turno successivo deve ripetere il tiro salvezza.
+  Se riesce l'effetto termina. Altrimenti rimane pietrificato per 24h.
+** Reazioni
+
+* Marinide
+Umanoide Medio (uomo acquatico), Neutrale
+- CA :: 11
+- HP :: 11 (2d8 +2)
+- Velocità :: 3m, nuoto 12m
+** Statistiche
+| STR | 10 | 0 |
+| DEX | 13 | 1 |
+| CON | 12 | 1 |
+| INT | 11 | 0 |
+| WIS | 11 | 0 |
+| CHA | 12 | 1 |
+#+TBLFM: $3='(floor (/ (- $2 10) 2.0));N
+** Abilità
+- Skills :: Percezione +2
+- Sensi :: percezione Passiva (12)
+- Lingue :: Aquan, Comune
+- Sfida :: 1/8 (25 XP)
+** Passive
+- Anfibio :: Il marinide può respirare sia aria che acqua
+** Azioni
+- Lancia :: Melee o A distanza, +2 a colpire, 1,5m di portata o 6/18m di gittata, bersaglio singolo,
+  3 (1d6) danni perforanti o 4 (1d8) danni perforanti se usata a due mani in Melee
+** Reazioni
+* Ghast
+Non Morto Medio, Caotico Malvagio
+- CA :: 13
+- HP :: 36 (8d8)
+- Velocità :: 9m
+** Statistiche
+| STR | 16 |  3 |
+| DEX | 17 |  3 |
+| CON | 10 |  0 |
+| INT | 11 |  0 |
+| WIS | 10 |  0 |
+| CHA |  8 | -1 |
+#+TBLFM: $3='(floor (/ (- $2 10) 2));N
+** Abilità
+- Skills ::
+- Sensi :: Scurovisione 18m, percezione Passiva 10
+- Lingue :: Comune
+- Sfida :: 2 (450XP)
+** Resistenze
+*** Danno
+- Necrotico
+** Immunità
+*** Danno
+- Veleno
+*** Condizioni
+- Affascinato
+- Avvelenato
+- Sfinimento
+** Passive
+- Fetore :: Qualsiasi creatura che inizia il suo turno entro 1.5m dal Ghast deve riuscire
+  in un tiro salvezza su CON con CD 10 o restare avvelenata fino all'inizio del suo prossimo
+  turno. Se riesce nel tiro, la creatura  è immune  al Fetore  del ghast per le prossime 24 ore.
+- Ribellione allo scacciare :: Il ghast e tutti i ghouls entro 9 metri da esso hanno vantaggio
+  ai tiri salvezza contro gli effetti che scacciano i non morti.
+** Azioni
+- Artigli :: Melee, +5 a colpire, 1.5m di portata, bersaglio singolo,
+  10 (2d6+3) danni taglienti. Sel il bersaglio è una creatura, diversa
+  da un non morto, deve riuscire un tiro salvezza di Costituzione CD
+  10 o restare paralizzata per 1 minuto. Il bersaglio può ripetere il
+  tiro salvezza al termine di ciascun suo turno, terminando l’effetto
+  se riesce il tiro salvezza.
+- Morso :: Melee, +3 a colpire, 1.5m portata, bersaglio singolo,
+  12 (2d8 +3) danni perforanti.
+** Reazioni
+
+* Ghoul
+Non morto Medio, Caotico malvagio
+- CA :: 12
+- HP :: 22 (5d8)
+- Velocità :: 9m
+** Statistiche
+| STR | 13 |  1 |
+| DEX | 15 |  2 |
+| CON | 10 |  0 |
+| INT |  7 | -2 |
+| WIS | 10 |  0 |
+| CHA |  6 | -2 |
+#+TBLFM: $3='(floor (/ (- $2 10) 2.0));N
+** Abilità
+- Skills ::
+- Sensi :: Scurovisione 18m, percezione passiva (10)
+- Lingue :: Comune
+- Sfida :: 1 (200XP)
+** Immunità
+*** Danno
+- Veleno
+*** Condizioni
+- Affascinato
+- Avvelenato
+- Sfinimento
+** Passive
+** Azioni
+- Artigli :: Melee, +4 a colpire, 1.5m portata, bersaglio singolo, 7
+  (2d4 +2) danni taglienti, se il bersaglio è una creatura, diversa da
+  un elto o da un non morto deve rieuscire un tiro salvezza di
+  Costituzione CD 10 o restare paralizzata per 1 minuto. Il bersaglio
+  può ripetere il tiro salvezza al termine di ciascun suo turno,
+  terminando l’effetto se riesce il tiro salvezza.
+- Morso :: Melee, +2 a colpire, 1.5m portata, bersaglio singolo,
+  9 (2d6 +2) danni perforanti
+** Reazioni
+
+* Rana Gigante
+Bestia media, senza allineamento
+- CA :: 11
+- HP :: 18 (4d8)
+- Velocità :: 9m, nuoto 9m
+** Statistiche
+| STR | 12 |  1 |
+| DEX | 13 |  1 |
+| CON | 11 |  0 |
+| INT |  2 | -4 |
+| WIS | 10 |  0 |
+| CHA |  3 | -4 |
+#+TBLFM: $3='(floor (/ (- $2 10) 2.0));N
+** Abilità
+- Skills :: Furtività +3, Percezione +2
+- Sensi :: Visione al buio 9m, percezione Passiva (12)
+- Lingue ::
+- Sfida :: 1/4 (50PE)
+** Passive
+- Anfibio :: La rana può respirare aria e acqua
+- Salt da Fermo :: Una rana gigante può saltare in lungo fino a 6m e
+  in alto fino a 3m, con o senza la rincorsa
+** Immunità
+*** Danno
+*** Condizioni
+** Azioni
+- Morso :: Melee, +3 a colpire, 1.5m portata, bersaglio singolo, 4
+  (1d6 +1) danni perforanti e il bersaglio è *afferrato* (CD 11 per
+  fuggire). Fino al termine dell'afferare, il bersaglio è intralciato,
+  e la rana non può usare ul morso contro un altro bersaglio
+- Inghiottire :: La rana effettua una attacco di morso contro un
+  bersaglio di taglia Piccola o inferiore che sta afferrando. Se
+  l’attacco colpisce, il bersaglio è inghiottito, e l’afferrare ha
+  termine. Il bersaglio inghiottito è accecato e intralciato, ha
+  copertura totale contro gli attacchi e altri effetti all’esterno
+  della rana, e subisce 5 (2d4) danni da acido all’inizio di ciascun
+  turno della rana. La rana può inghiottire solo un bersaglio alla
+  volta. Se la rana muore, una creatura inghiottita non è più
+  intralciata da essa e può uscire dal cadavere utilizzando 1,5 metri
+  di movimento, uscendo prona.
+** Reazioni
+
+* Drago Verde Giovane
+Drago Grande, Legale Malvagio
+- CA :: 18 (armatura naturale)
+- HP :: 136 (16d10 + 48)
+- Velocità :: 12m, 12m nuoto, 24m volo
+** Statistiche
+| STR | 19 | 4 |
+| DEX | 12 | 1 |
+| CON | 17 | 3 |
+| INT | 16 | 3 |
+| WIS | 13 | 1 |
+| CHA | 15 | 2 |
+#+TBLFM: $3='(floor (/ (- $2 10) 2.0));N
+** Tiri Salvezza
+- Destrezza :: +4
+- Costituzione :: +6
+- Saggezza :: +4
+- Carisma :: +5
+** Abilità
+- Skills :: Furtività +4, Inganno +5, Percezione +7
+- Sensi :: Scurovisione 36m, vista cieca 9m, percezione Passiva (17)
+- Lingue :: Comune, Draconico
+- Sfida :: 8 (3900XP)
+** Passive
+- Anfibio :: il drago può respirare sia aria sia acqua
+** Immunità
+*** Danno
+- Veleno
+*** Condizioni
+- Avvelenato
+** Azioni
+- Multiattacco :: Il drago può effettuare tre attacchi: uno con il *morso*  due con gli *artigli*
+- Artiglio :: Melee, +7 a colpire, 1.5 portata, bersaglio singolo,
+  11 (2d6 +4) danni taglienti
+- Morso :: Melee, +7 a colpire, 3m portata, bersaglio singolo,
+  15 (2d10+4) danni perforanti più 7 (2d6) danni da veleno
+- Soffio Velenoso (5-6) :: Il drago Verde Giovane esala gas velenosi
+  in un cono i 9 metri. Ogni creatura in quell’area deve effettuare un
+  tiro salvezza di Costituzione CD 14 e subire 42 (12d6) danni da
+  veleno se fallisce il tiro salvezza, o la metà di questi danni se lo
+  riesce
+** Reazioni
+
+* Possibili mostri da aggiungere  :noexport:
+- Kuo-Toa
+- Harpy
+- Merrow
+- Deep Scion
+- Weresharck
+- Skum
+- Kraken Priest
+- Aboleth
+- Morkoth
+- Marid
+- Wastrilith
+- Strom Giant
+- Tartaruga Dragona
+- Leviatano
+- Kraken

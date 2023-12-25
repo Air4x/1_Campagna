@@ -1,0 +1,29 @@
+città:
+        - "city1.mp3"
+        - "city2.mp3"
+        
+battaglia:
+        - "battaglia1.mp3"
+        - "battaglia2.mp3"
+        - "battaglia3.mp3"
+
+taverna:
+        - "taverna1.mp3"
+        - "taverna2.mp3"
+	
+mare:
+        - "mare1.mp3"
+        - "mare2.mp3"
+        
+foresta:
+        - "foresta1.mp3"
+
+caverna:
+        - "caverna1.mp3"
+
+villaggio_isola:
+        - "villaggio_isola1.mp3"
+
+        
+
+    

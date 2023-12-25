@@ -1,0 +1,19 @@
+#+TITLE: Campagna 1
+#+AUTHOR: Mario Calcagno
+
+* Prologo
+** Luskan
+- NPC :: Guardia Cittadina, Popolano (Mercante, Cittadino, Artigiano).
+È mattina quando arrivare a Luskan. La carrozza si è fermata nella
+piazza centrale.  Siete arrivati in quello che sembra il giorno del
+mercato. Ai bordi della piazza vedete diverse bancarelle che vendono
+viveri di diversi tipi. Con voi avete una lettera di presentazione scritta dal
+sindaco del villaggio. Sul busta è segnato il destinatario: "Alle Navi di Luskan".
+                           Scelta Giocatori
+*** Alle Navi
+- Ottenere Informazioni
+Le Navi si trovano nell *Gran Palazzo*, al centro di Luskan. Vi conviene sbrigarvi
+se volete ottenere udienza.
+
+*** Esplorazione città
+**** 
