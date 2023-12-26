@@ -9,11 +9,35 @@ piazza centrale.  Siete arrivati in quello che sembra il giorno del
 mercato. Ai bordi della piazza vedete diverse bancarelle che vendono
 viveri di diversi tipi. Con voi avete una lettera di presentazione scritta dal
 sindaco del villaggio. Sul busta è segnato il destinatario: "Alle Navi di Luskan".
-                           Scelta Giocatori
+                          ~Scelta Giocatori~
 *** Alle Navi
 - Ottenere Informazioni
-Le Navi si trovano nell *Gran Palazzo*, al centro di Luskan. Vi conviene sbrigarvi
+Le Navi si trovano al porto  alla foce del fiume Mirar. Vi conviene sbrigarvi
 se volete ottenere udienza.
 
 *** Esplorazione città
-**** 
+- le scuderie
+- La corte dei capitani e degli alti capitani
+- il mercato
+- il Carnevale dei Prigionieri, la corte di giustizia di luskan, esecuzioni
+  e torture pubbliche
+- Dragon beach, luogo senza legge.
+
+** Foresta
+- NPC :: Goblins, Cockatrice, Drago Verde Giovane
+ La foresta fuori Luskan è umida e fredda. Gli alberi sono cresciuti fino
+ a formare lunghi corridoi su cui difficilmente batte il sole. Si dice che
+ nelle parti più profonde la foresta sia abitata da violente creature e sembra
+ che negli ultimi tempi avvistamenti di esse siano aumentati.
+
+** Secca
+- NPC :: Ghast, Ghoul
+La nave si è arenata in una secca, dovrete aspettare l'alta marea per riprendere
+il viaggio. Mentre aspettate notate una strana nebbia salmastra alzarsi dal fondale
+marino.
+
+** Baia Magra
+- NPC :: Marinide, Popolano, Rana Gigante.
+Sbarcate in un piccolo villaggio portuale. Il capitano, prima di scendere per fare
+rifornimento, vi avverte che la popolazione autoctona è particolarmente caratteristica,
+poi se ne va accennando un piccolo sorriso beffardo.

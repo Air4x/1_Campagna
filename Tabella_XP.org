@@ -1,0 +1,42 @@
+#+TITLE: Tabella progressione
+#+options: toc:nil author:nil date:nil
+Ogni volta che guadagni un livello, ottieni 1 ulteriore Dado
+Vita. Tira il Dado Vita, somma il tuo modificatore di Costituzione al
+risultato, e somma quel totale ai tuoi punti ferita massimi. In
+alternativa, puoi impiegare il valore fisso indicato nella descrizione
+della classe, ovverosia il risultato medio per il tiro di dado
+(arrotondato per eccesso).  Quando il tuo modificatore di Costituzione
+aumenta di 1, il tuoi punti ferita massimi aumentano di 1 per ogni
+livello guadagnato. Per esempio, il tuo guerriero di 7° livello ha un
+punteggio di Costituzione 17. Quando raggiunge l’8° livello aumenta il
+suo punteggio di Costituzione da 17 a 18, aumentando il suo
+modificatore di Costituzione da +3 a +4. I suoi punti ferita massimi
+aumentano quindi di 8.  La tabella Progressione del Personaggio
+riassume i PE di cui hai bisogno per progredire dal livello 1 al
+livello 20, e il bonus di competenza per un personaggio di quel
+livello. Consulta le informazioni nella descrizione della tua classe
+di personaggio per scoprire quali altri miglioramenti otterrai a
+ciascun livello.
+
+|    EXP | Livello | Bonus di Competenza |
+|--------+---------+---------------------|
+|      0 |       1 |                  +2 |
+|    300 |       2 |                  +2 |
+|    900 |       3 |                  +2 |
+|   2700 |       4 |                  +2 |
+|   6500 |       5 |                  +3 |
+|  14000 |       6 |                  +3 |
+|  23000 |       7 |                  +3 |
+|  34000 |       8 |                  +3 |
+|  48000 |       9 |                  +4 |
+|  64000 |      10 |                  +4 |
+|  85000 |      11 |                  +4 |
+| 100000 |      12 |                  +4 |
+| 120000 |      13 |                  +5 |
+| 140000 |      14 |                  +5 |
+| 165000 |      15 |                  +5 |
+| 195000 |      16 |                  +5 |
+| 225000 |      17 |                  +6 |
+| 265000 |      18 |                  +6 |
+| 305000 |      19 |                  +6 |
+| 355000 |      20 |                  +6 |
