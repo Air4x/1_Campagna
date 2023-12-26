@@ -1,5 +1,6 @@
 *.tex
 *.pdf
+*.png
 batch_convert.raku
 lista
 musica/

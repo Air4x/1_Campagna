@@ -2,7 +2,7 @@
 #+AUTHOR: Mario Calcagno
 
 * Prologo
-** Luskan
+** [[file:Luskan.org][Luskan]]
 - NPC :: Guardia Cittadina, Popolano (Mercante, Cittadino, Artigiano).
 È mattina quando arrivare a Luskan. La carrozza si è fermata nella
 piazza centrale.  Siete arrivati in quello che sembra il giorno del
